@@ -8,11 +8,11 @@ MonadSpin is an innovative platform designed to revolutionize user interaction a
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center; gap: 20px; max-width: 800px; margin: 0 auto;">
-  <div style="flex: 1; text-align: center; max-width: 380px;">
+<div style="text-align: center; max-width: 800px; margin: 0 auto;">
+  <div style="display: inline-block; width: 48%; vertical-align: top; margin-right: 2%; text-align: center;">
     <img src="Banner/image-1.png" alt="Screenshot 1" style="width:100%; height: auto; object-fit: contain;">
   </div>
-  <div style="flex: 1; text-align: center; max-width: 380px;">
+  <div style="display: inline-block; width: 48%; vertical-align: top; text-align: center;">
     <img src="Banner/image-2.png" alt="Screenshot 2" style="width:100%; height: auto; object-fit: contain;">
   </div>
 </div>
@@ -34,3 +34,6 @@ MonadSpin is an innovative platform designed to revolutionize user interaction a
 *   **Crystal-Clear Rewards:** Experience complete transparency with a clear visualization of potential rewards and spin mechanics, building unwavering trust with our user base.
 
 MonadSpin is more than just a game; it's your intuitive portal to the expansive Monad ecosystem, crafted to make Web3 not only accessible but truly captivating.
+
+## Farcaster Mini App
+Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank](https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank)
