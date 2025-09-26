@@ -36,4 +36,4 @@ MonadSpin is an innovative platform designed to revolutionize user interaction a
 MonadSpin is more than just a game; it's your intuitive portal to the expansive Monad ecosystem, crafted to make Web3 not only accessible but truly captivating.
 
 ## Farcaster Mini App
-Explore FarRank on Farcaster: [[https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank](https://farcaster.xyz/miniapps/TLIZwXHJazk2/monad-spin)](https://farcaster.xyz/miniapps/TLIZwXHJazk2/monad-spin)
+Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/TLIZwXHJazk2/monad-spin](https://farcaster.xyz/miniapps/TLIZwXHJazk2/monad-spin)
