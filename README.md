@@ -1,4 +1,4 @@
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Monad](https://img.shields.io/badge/Monad-200052?style=for-the-badge&logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJ7z1Pbx9cxNP64jV1fzalAqO3bQpi67uZg&s&logoColor=white) ![Farcaster](https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logo=farcaster&logoColor=white)
 
 ## Unlocking Web3 Engagement and Onboarding on Monad
 
@@ -36,4 +36,4 @@ MonadSpin is an innovative platform designed to revolutionize user interaction a
 MonadSpin is more than just a game; it's your intuitive portal to the expansive Monad ecosystem, crafted to make Web3 not only accessible but truly captivating.
 
 ## Farcaster Mini App
-Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank](https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank)
+Explore FarRank on Farcaster: [[https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank](https://farcaster.xyz/miniapps/TLIZwXHJazk2/monad-spin)](https://farcaster.xyz/miniapps/TLIZwXHJazk2/monad-spin)
