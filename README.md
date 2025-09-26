@@ -8,14 +8,16 @@ MonadSpin is an innovative platform designed to revolutionize user interaction a
 
 ## Screenshots
 
-<div style="text-align: center; max-width: 800px; margin: 0 auto;">
-  <div style="display: inline-block; width: 48%; vertical-align: top; margin-right: 2%; text-align: center;">
-    <img src="Banner/image-1.png" alt="Screenshot 1" style="width:100%; height: auto; object-fit: contain;">
-  </div>
-  <div style="display: inline-block; width: 48%; vertical-align: top; text-align: center;">
-    <img src="Banner/image-2.png" alt="Screenshot 2" style="width:100%; height: auto; object-fit: contain;">
-  </div>
-</div>
+<table style="width:100%; max-width: 800px; margin: 0 auto;">
+  <tr>
+    <td style="width:50%; text-align:center;">
+      <img src="Banner/image-1.png" alt="Screenshot 1" style="width:100%; height: auto; object-fit: contain; max-width: 380px;">
+    </td>
+    <td style="width:50%; text-align:center;">
+      <img src="Banner/image-2.png" alt="Screenshot 2" style="width:100%; height: auto; object-fit: contain; max-width: 380px;">
+    </td>
+  </tr>
+</table>
 
 ## The Challenges We Solve:
 
