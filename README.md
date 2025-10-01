@@ -29,7 +29,6 @@ MonadSpin is an innovative platform designed to revolutionize user interaction a
 
 *   **Effortless Interaction:** Claiming rewards is streamlined to just a few clicks, abstracting away the underlying blockchain complexities for a smoother user experience.
 *   **Powerful Social Reach:** Share your achievements and contribute to community growth with easy-to-use social sharing features, amplified by Farcaster's integrated experience.
-*   **Fortified Security:** Built on a foundation of robust Web3 security practices, MonadSpin ensures all wallet connections and transactions are safe and protected.
 *   **Consistent Daily Engagement:** The unique daily spin mechanic encourages consistent, enjoyable interaction with the Monad ecosystem, keeping you connected and rewarded.
 *   **Crystal-Clear Rewards:** Experience complete transparency with a clear visualization of potential rewards and spin mechanics, building unwavering trust with our user base.
 
